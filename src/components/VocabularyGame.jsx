@@ -1,6 +1,6 @@
 // src/VocabularyGame.js
 import React, { useState, useEffect } from "react";
-import "./VocabularyGame.css";
+import './vocabularyGame.css'
 
 const VocabularyGame = () => {
   const [words, setWords] = useState([]);

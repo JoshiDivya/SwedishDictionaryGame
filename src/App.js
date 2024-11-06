@@ -1,11 +1,12 @@
 // src/App.js
 import React from "react";
-import VocabularyGame from "./VocabularyGame";
+import VocabularyGame from "./components/VocabularyGame";
+
 
 function App() {
   return (
     <div className="App">
-      <VocabularyGame />
+      <VocabularyGame/>
     </div>
   );
 }
