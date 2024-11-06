@@ -11,7 +11,7 @@ const VocabularyGame = () => {
   useEffect(() => {
     const loadWords = async () => {
       try {
-        const response = await fetch("/words.json");
+        const response = await fetch(`${process.env.PUBLIC_URL}/words.json`);
         const data = await response.json();
         setWords(data);
       } catch (error) {
