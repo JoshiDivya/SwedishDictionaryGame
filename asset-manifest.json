@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2f25202a.css",
-    "main.js": "/static/js/main.e3b0a5a3.js",
-    "static/js/453.5c3ac2fb.chunk.js": "/static/js/453.5c3ac2fb.chunk.js",
-    "index.html": "/index.html",
-    "main.2f25202a.css.map": "/static/css/main.2f25202a.css.map",
-    "main.e3b0a5a3.js.map": "/static/js/main.e3b0a5a3.js.map",
-    "453.5c3ac2fb.chunk.js.map": "/static/js/453.5c3ac2fb.chunk.js.map"
+    "main.css": "/SwedishDictionaryGame/static/css/main.2f25202a.css",
+    "main.js": "/SwedishDictionaryGame/static/js/main.c1747053.js",
+    "static/js/453.5c3ac2fb.chunk.js": "/SwedishDictionaryGame/static/js/453.5c3ac2fb.chunk.js",
+    "index.html": "/SwedishDictionaryGame/index.html",
+    "main.2f25202a.css.map": "/SwedishDictionaryGame/static/css/main.2f25202a.css.map",
+    "main.c1747053.js.map": "/SwedishDictionaryGame/static/js/main.c1747053.js.map",
+    "453.5c3ac2fb.chunk.js.map": "/SwedishDictionaryGame/static/js/453.5c3ac2fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f25202a.css",
-    "static/js/main.e3b0a5a3.js"
+    "static/js/main.c1747053.js"
   ]
 }
